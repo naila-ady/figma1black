@@ -1,6 +1,6 @@
 
     import Image from "next/image";
-    import img from "../../public/images/img.png";
+    import img from "../../public/assets/img.png";
     
     
     export default function Home() {
